@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>穹妹のBlog</title>
+  
+  <subtitle>ヾ(≧▽≦*)o</subtitle>
+  <link href="https://pbkasuganosora.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://pbkasuganosora.github.io/"/>
+  <updated>2022-09-25T11:18:48.055Z</updated>
+  <id>https://pbkasuganosora.github.io/</id>
+  
+  <author>
+    <name>PBKasuganoSora</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一条博文！！！</title>
+    <link href="https://pbkasuganosora.github.io/posts/ff92a5d9.html"/>
+    <id>https://pbkasuganosora.github.io/posts/ff92a5d9.html</id>
+    <published>2022-09-25T11:18:34.000Z</published>
+    <updated>2022-09-25T11:18:48.055Z</updated>
+    
+    <content type="html"><![CDATA[<p>额，我不知道我要写什么…</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;额，我不知道我要写什么…&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
